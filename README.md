@@ -1,3 +1,5 @@
+++ MIT 6.191S course lab work
+
 ### Introduction
 
 This second programming assignment will require you to write an R
